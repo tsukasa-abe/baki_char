@@ -4,6 +4,6 @@ RSpec.describe BakiChar do
   end
 
   it "baki test" do
-    expect(BakiChar.baki).to eq("範馬刃牙")
+    expect(BakiChar.baki).to eq("範馬刃牙だよぉ")
   end
 end
