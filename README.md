@@ -1,8 +1,7 @@
 # BakiChar
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/baki_char`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+男と生まれたからには、誰でも一生の内一度は夢見る「地上最強の男」
+グラップラーとは「地上最強の男」を目指す格闘士のことである！
 
 ## Installation
 
